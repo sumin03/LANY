@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+ul{list-style:none;}
+a{text-decoration:none; color:inherit;}
+
+/*==header==*/
+header{width:100%; height:83px; background-color:#fae8d2;}
+header>.wrap{width:1200px; height:100%; margin:auto;}
+#logo{float:left;margin-top:22px; margin-left:7px;}
+.gnb{float:left; margin-left:234px;}
+.gnb>li{float:left; line-height:83px;font-size:20px; font-family:NanumGothic; font-weight:bold; color:#7c7580;
+	width:150px; text-align:center;
+}
+.icon{float:left; margin-left:40px;}
+.icon>li{float:left;}
+.icon>li i{color:#7c7580; margin-left:50px; font-size:20px; line-height:84px; cursor:pointer;}
+
+/*=============section============*/
+section{width:100%; height:886px; font-family:NanumSquare;}
+section>.wrap{width:1200px; height:100%; margin:auto;
+padding-top:114px; box-sizing:border-box;}
+
+.left{float:left; margin-left:50px; margin-top:147px;}
+.left>li:first-child{font-size:36px; font-weigt:bold; color:#928a97; margin-bottom:32px;}
+.left>li:nth-child(2){font-size:30px; font-weigt:bold; color:#928a97; margin-bottom:49px;}
+.right{ float:right;}
+
+/*====footer=====*/
+footer{width:100%; height:245px; background-color:#283b62; font-family:NanumGothic;}
+footer>.wrap{width:1200px; height:100%; margin:auto; }
+
+.logo{float:left;margin-left:155px;margin-top:69px;}
+.logo>li:first-child{color:white; font-size:29px; font-weight:bold; }
+.logo>li:last-child{color:#928a97; font-size:15px; }
+
+.sharing{float:left; margin-left:220px; margin-top:28px; font-size:16px; color:#928a97; line-height:30px;}
+.sharing>li:first-child{color:white; font-size:20px; margin-bottom:10px;}
+
+.explore{float:left; margin-left:96px; margin-top:28px;font-size:16px; color:#928a97; line-height:30px;}
+.explore>li:first-child{color:white; font-size:20px;margin-bottom:10px;}
+
+
+.info{float:left; margin-left:96px; margin-top:28px;font-size:16px; color:#928a97; line-height:30px;}
+.info>li:first-child{color:white; font-size:20px;margin-bottom:10px;}
+
+.copy{float:left; margin-top:30px; margin-left: 350px;font-size:16px; color:#928a97;}

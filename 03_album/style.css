@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+ul{list-style:none;}
+a{text-decoration:none; color:inherit;}
+
+/*==header==*/
+header{width:100%; height:83px; background-color:#fae8d2;}
+header>.wrap{width:1200px; height:100%; margin:auto;}
+#logo{float:left;margin-top:22px; margin-left:7px;}
+.gnb{float:left; margin-left:234px;}
+.gnb>li{float:left; line-height:83px;font-size:20px; font-family:NanumGothic; font-weight:bold; color:#7c7580;
+	width:150px; text-align:center;
+}
+.icon{float:left; margin-left:40px;}
+.icon>li{float:left;}
+.icon>li i{color:#7c7580; margin-left:50px; font-size:20px; line-height:84px; cursor:pointer;}
+
+/*==section==*/
+section{width:100%; height:1114px;}
+section>.wrap{width:1200px; height:100%; margin:auto; position:relative;}
+
+.top{position:fixed; left:1800px; top:500px; cursor:pointer;}
+
+.album{width:536px; height:436px; position:absolute; left:0; top:332px;}
+.album>h3{margin-left:53px; font-size:30px; margin-bottom:65px; color:#928a97;}
+.slide{margin-left:53px; width:457px; height:232px; overflow:hidden;}
+.slide_box{width:4113px; height:100%;}
+.img{float:left;}
+.img>li{float:left; cursor:pointer;transform:scale(0.6);}
+.img>li:first-child{transform:scale(1);}
+.play{margin-left:200px; margin-top:54px;}
+button{background-color:transparent; outline:none; border:none; cursor:pointer;}
+#left{margin-right:100px;}
+
+
+/*앨범모음*/
+.de{position:absolute; left:600px; top:42px;}
+
+
+.make_out{display:none; }
+.mama{display:none;}
+#adjust{line-height:25px;}
+.kinda{display:none;}
+.LANY{display:none;}
+.nights{display:none;}
+#ad{line-height:20px; margin-top:4px;}
+.okay{display:none;}
+.mean{display:none;}
+
+
+.de> .on{display:block;}
+
+.infomation{
+	position:absolute; left:180px; top:200px;
+	font-family:NanumGothic; color:#928a97;
+}
+.infomation>li:nth-child(2){font-size:24px; font-weight:800;text-align:center; margin-top:20px;}
+.infomation>li:nth-child(3){font-size:18px;text-align:center; margin-top:10px;}
+
+.list{position:absolute; left:180px; top:550px;}
+.list>li{line-height:50px; cursor:pointer;}
+.spo{position:absolute; left:330px; top:555px;}
+.spo>li{line-height:50px;cursor:pointer;}
+
+.you{position:absolute; left:380px; top:552px;}
+.you>li{line-height:50px; cursor:pointer;}
+
+/*====footer=====*/
+footer{width:100%; height:245px; background-color:#283b62; font-family:NanumGothic;}
+footer>.wrap{width:1200px; height:100%; margin:auto; }
+
+.logo{float:left;margin-left:155px;margin-top:69px;}
+.logo>li:first-child{color:white; font-size:29px; font-weight:bold; }
+.logo>li:last-child{color:#928a97; font-size:15px; }
+
+.sharing{float:left; margin-left:220px; margin-top:28px; font-size:16px; color:#928a97; line-height:30px;}
+.sharing>li:first-child{color:white; font-size:20px; margin-bottom:10px;}
+
+.explore{float:left; margin-left:96px; margin-top:28px;font-size:16px; color:#928a97; line-height:30px;}
+.explore>li:first-child{color:white; font-size:20px;margin-bottom:10px;}
+
+
+.info{float:left; margin-left:96px; margin-top:28px;font-size:16px; color:#928a97; line-height:30px;}
+.info>li:first-child{color:white; font-size:20px;margin-bottom:10px;}
+
+.copy{float:left; margin-top:30px; margin-left: 350px;font-size:16px; color:#928a97;}
+
+
+
+
+
+
