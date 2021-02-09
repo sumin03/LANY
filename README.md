@@ -3,7 +3,7 @@ _LANY is the band from USA_
 
 ### 📍https://sumin03.github.io/LANY/
 
->Before, Checking my website. Please check with Chorme and this website is based on 1920px (content size: 1200px)
+>Before, Checking my website. Please check with Chrome and this website is based on 1920px (content size: 1200px)
 
 ![스크린샷 2021-02-10 오전 3 58 37](https://user-images.githubusercontent.com/77384682/107413763-7805c100-6b54-11eb-8816-4ea2bb15a7d8.png)
 
@@ -12,7 +12,7 @@ _LANY is the band from USA_
 ## The reason I tried to change this website.
 
 ### 📍https://www.thisislany.com/ 
-> This is original twosome place website 
+> This is original LANY website 
 
 **There has lots of reason but THE MAIN REASON IS..<br> 
 I am a huge fan of LANY so I wanted to make their website with _the vibe_ they have. <br>
@@ -59,7 +59,15 @@ If you want to see more check my css history on my github!
 
 ## What I like the most on my website 
 
-1. I really like the color, atmosphere  
+1. I really like the color, atmosphere, vibe on the website. I really worked hard to find the perfect color which suit their character.
+
+2. I made **'back to top button**. As one of a website user, I sometimes found out the annoyed part when website do not offer 'back to top' button. 
+So I put it in for users. 
+
+3. In Album part, When you open the page you cannot see anything but **When you click the album that I put** Then you can see that **album tracks**. I also put music player icons, So users can directly go to that website and able to listent to it right away. 
+
+4. In Tour part, When you scroll the page the website height automatically change, show more items to users. Plus, When users click on the button on the top then They can only see the item they want to see.
+
 
 
 
