@@ -12,7 +12,7 @@ _LANY is the band from USA_
 
 **There has lots of reason but THE MAIN REASON IS..<br> 
 I am a huge fan of LANY so I wanted to make their website with _the vibe_ they have. <br>
-so I tried to re-design and coded to show How much I care about my client characteristic.**
+so I tried to re-design and code to show How much I care about my client characteristic.**
 
 
 
