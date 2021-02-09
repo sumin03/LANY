@@ -63,10 +63,12 @@ If you want to see more check my css history on my github!
 
 <img width="600" src="https://user-images.githubusercontent.com/77384682/107416081-6d98f680-6b57-11eb-9159-b231b1d9fb80.png">
 
-<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107416183-89040180-6b57-11eb-9197-9198dfa26026.png">
+
+<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107416340-b6e94600-6b57-11eb-8fd6-9d8c6b5d63b7.png">
 
 2. I made **'back to top button**. As one of a website user, I sometimes found out the annoyed part when website do not offer 'back to top' button. 
 So I put it in for users. 
+
 
 3. In Album part, When you open the page you cannot see anything but **When you click the album that I put** Then you can see that **album tracks**. I also put music player icons, So users can directly go to that website and able to listent to it right away. 
 
