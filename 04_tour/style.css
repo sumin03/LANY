@@ -16,6 +16,7 @@ header>.wrap{width:1200px; height:100%; margin:auto;}
 .icon>li i{color:#7c7580; margin-left:50px; font-size:20px; line-height:84px; cursor:pointer;}
 
 /*===section==*/
+
 section{width:100%; height:1410px;}
 section>.wrap{width:1200px; height:100%; margin:auto;  position:relative;}
 #title{position:absolute; left:55%; transform:translateX(-50%); top:82px;}

@@ -105,11 +105,11 @@ font-family:NanumSquare; font-size:24px; font-weight:bold; color:#928a97; line-h
 .under>li::after{
 	position:absolute; height:3px; width:100px; content:""; background-color:#fae8d2; left:0; top:8px; 	
 }
-.under>li:nth-child(2){0px 200px;}
+
 
 .under>li.on::after{background-color:#f85f73}
 
-.top{position:fixed; left:1800px; top:500px; cursor:pointer;}
+.top{position:fixed; right:50px; bottom:200px; cursor:pointer;}
 
 
 /*====footer=====*/
