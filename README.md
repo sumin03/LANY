@@ -1,9 +1,13 @@
 # 🎵LANY🎵
 _LANY is the band from USA_ 
 
-### 📍https://sumin03.github.io/LANY/ 
+### 📍https://sumin03.github.io/LANY/
 
 >Before, Checking my website. Please check with Chorme and this website is based on 1920px (content size: 1200px)
+
+![스크린샷 2021-02-10 오전 3 58 37](https://user-images.githubusercontent.com/77384682/107413763-7805c100-6b54-11eb-8816-4ea2bb15a7d8.png)
+
+
 
 ## The reason I tried to change this website.
 
@@ -27,3 +31,36 @@ so I tried to re-design and code to show How much I care about my client charact
 4. Even though this is their public website, doesn't have their information so I designed their information part like a music magazine
 
 5. For making it user-friendly, I made 'BACK TO TOP' button for users that they do not have to scroll all the way back to the top 
+
+
+
+## What I change in code
+
+I tried to make design totally different way. 
+The original website was pretty tricky to use it when you first time use (at least for me) 
+so I deleted the first page thaat I could see, and for Making it user-friendly, I added 'BACK TO TOP' button on the website, which page is longer than browser height. 
+For the first time When I tried this I only used Jquery, but I decieded to re-make it with pure vanila javascript. 
+Here is the difference but You can check it on my history too. 
+
+
+
+
+#### Changed css code 
+
+I didn't know using **':root'** element before so wrote every element values by myself, even though I kept writing same values. 
+So After studying **':root'** element so I changed it like this 
+<img width="1213" alt="스크린샷 2021-02-04 오후 10 56 58" src="https://user-images.githubusercontent.com/77384682/106902627-62e7f700-673c-11eb-8c24-efc434b9ad42.png">
+<img width="1213" alt="스크린샷 2021-02-04 오후 10 57 15" src="https://user-images.githubusercontent.com/77384682/106902804-91fe6880-673c-11eb-9176-bbac7cfe168e.png">
+Can you see the differences? 
+If you want to see more check my css history on my github! 
+
+
+
+
+## What I like the most on my website 
+
+1. I really like the color, atmosphere  
+
+
+
+
