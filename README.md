@@ -79,7 +79,9 @@ So I put it in for users.
 
 <img width="600" src="https://user-images.githubusercontent.com/77384682/107629008-d0e46f00-6ca4-11eb-84b9-fe5cb508d688.gif">
 
-4. In Tour part, When you scroll the page the website height automatically change, show more items to users. Plus, When users click on the button on the top then They can only see the item they want to see.
+4. In Merch part, When you scroll the page the website height automatically change, show more items to users. Plus, When users click on the button on the top then They can only see the item they want to see.
+
+<img width="600" src="https://user-images.githubusercontent.com/77384682/107632220-8e716100-6ca9-11eb-8c89-ee901bfe8c96.gif">
 
 
 
