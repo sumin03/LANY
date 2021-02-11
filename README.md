@@ -70,6 +70,11 @@ If you want to see more check my css history on my github!
 So I put it in for users. 
 
 
+<img wirdh="600" src="https://user-images.githubusercontent.com/77384682/107628270-bd84d400-6ca3-11eb-8a9a-bdc22e199fc7.gif">
+
+
+
+
 3. In Album part, When you open the page you cannot see anything but **When you click the album that I put** Then you can see that **album tracks**. I also put music player icons, So users can directly go to that website and able to listent to it right away. 
 
 4. In Tour part, When you scroll the page the website height automatically change, show more items to users. Plus, When users click on the button on the top then They can only see the item they want to see.
